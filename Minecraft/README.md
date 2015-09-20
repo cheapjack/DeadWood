@@ -7,6 +7,4 @@ iOS device playing Minecraft: Pocket Edition
 
 ##Useage
 
-`/tp 185 78 75
-
-Logon to the server and run `/paintimage http://whitcraft.uk/maps/<filename.ppm>` 
+Download and decompress the tar package into your `worlds` directory in your `pocketmine` server and go to Location 185 78 75 
