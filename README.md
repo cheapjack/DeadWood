@@ -1,5 +1,5 @@
 
-## Deadwood
+## DeadWood
 Repository for Participants of **Night of the Living Deadwood**
 ![img_6025](https://cloud.githubusercontent.com/assets/128456/9980973/845b18ee-5fa5-11e5-93c1-f8c789761259.JPG)
 
