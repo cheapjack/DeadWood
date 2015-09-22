@@ -14,12 +14,12 @@ It's on github because Im interested in biological communication and computation
 ###Contents
 
  * Images from the workshop in the Macro directory
- * Images fromt the Dino-Lite microscope viewer
+ * Images fromt the [Dino-Lite microscope viewer](http://www.dinolite-uk.com/index.php/microscopes/item/38-am7023)
  * How to import images into pocketmine Minecraft:Pocket Edition servers using [ImageMagick](http://www.imagemagick.org/script/convert.php) in the command line and the `pocketmine` server plugin [PaintMyLawn](https://forums.pocketmine.net/plugins/paintmylawn.646/) by the ever-awesome @shoghicp
 
 ###Thanks
 
-Thanks to Rod Dillon and Jackie Parry
+Thanks to [Rod Dillon](https://twitter.com/Sandflyman), Viv and Jackie Parry
 
 ###Wiki
 
