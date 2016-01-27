@@ -3,7 +3,9 @@
 Repository for Participants of **Night of the Living Deadwood**
 ![img_6025](https://cloud.githubusercontent.com/assets/128456/9980973/845b18ee-5fa5-11e5-93c1-f8c789761259.JPG)
 
-Night of the Living Deadwood was a [workshop at **AND Festival 2015**](http://www.andfestival.org.uk/events/night-of-the-living-deadwood/) led by microbiologists Dr Rod Dillon and Dr Jackie Parry, based at Lancaster University, which forms part of an ongoing collaboration with Abandon Normal Devices to explore current concepts in the biological and biomedical sciences.
+Night of the Living Deadwood was a [workshop at **AND Festival 2015**](http://www.andfestival.org.uk/events/night-of-the-living-deadwood/) led by microbiologists **Dr Rod Dillon**, **Dr Viv Dillon** and **Dr Jackie Parry**, based at Lancaster University, which forms part of an ongoing collaboration with Abandon Normal Devices to explore current concepts in the biological and biomedical sciences.
+
+I was invited by **Rod Dillon** and **AND** to come along and explore the workshop and prototype something. I [blogged about it here](http://cheapjack.github.io/2015/09/18/festivals-and-funghal-hospitality-deadwood-is-not-dead/).
 
 ###Useage
 
